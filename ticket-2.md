@@ -13,6 +13,11 @@
 Проверка: повторный запуск `top` подтвердил, что нагрузка упала до нормальных значений, процесс завершен.
 
 **Доказательства:**
+1. График CPU в Netdata (100% нагрузка)
 <img width="982" height="822" alt="1" src="https://github.com/user-attachments/assets/ad3e7466-b28d-4c98-a8ce-30e27da9030d" />
+
+2. Вывод команды top (процесс-пожиратель `yes`)
 <img width="978" height="508" alt="2" src="https://github.com/user-attachments/assets/5efb24cf-3dad-4cb3-a296-171fe46f4217" />
+
+3. Проверка после kill (нагрузка упала)
 <img width="981" height="509" alt="3" src="https://github.com/user-attachments/assets/d0e76f4f-fd38-4349-972e-033f7904b43b" />
