@@ -16,13 +16,13 @@
 
 **Доказательства:**
 1. Ошибка 403 Forbidden в браузере
-<img width="981" height="513" alt="3" src="https://github.com/user-attachments/assets/e7ac65b6-e2a4-46f3-a379-2051852622b0" />
+<img width="1218" height="408" alt="1" src="https://github.com/user-attachments/assets/a439c371-aeaa-4f64-9026-f83baf6eef30" />
 
 2. Лог Nginx (Permission denied)
-<img width="979" height="506" alt="2" src="https://github.com/user-attachments/assets/0c099cf9-7366-4f0e-bfae-6588185aeb7c" />
+<img width="979" height="506" alt="2" src="https://github.com/user-attachments/assets/3c1d3990-11ea-4cd8-ba42-4035af8068ac" />
 
 3. Права на файл и весь путь (namei -l)
-<img width="1218" height="408" alt="1" src="https://github.com/user-attachments/assets/a96f0e79-da90-4c02-9f37-43ce010b4ea1" />
+<img width="981" height="513" alt="3" src="https://github.com/user-attachments/assets/f0adf7ce-4e6b-49a1-8e8f-53236b5c66d9" />
 
 4. Успешное открытие файла ("Hello")
 <img width="1222" height="372" alt="4" src="https://github.com/user-attachments/assets/ebe30a56-5e5b-41f2-98f1-097bb96ff75b" />
