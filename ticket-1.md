@@ -1,4 +1,3 @@
-<img width="1219" height="821" alt="1" src="https://github.com/user-attachments/assets/08e93e64-2efb-4bce-9f6c-bc792b55335e" />
 # Тикет 1: Сайт недоступен 
 
 **Жалоба клиента:**
@@ -14,7 +13,6 @@
 Запуск службы командой `sudo systemctl start nginx`. Сайт восстановил работоспособность.
 
 **Доказательства:**
-*(Сюда мы сейчас вставим картинки)*
 <img width="1219" height="821" alt="1" src="https://github.com/user-attachments/assets/d94c94a1-c310-414a-95e6-a2284a591c7c" />
 <img width="982" height="508" alt="2" src="https://github.com/user-attachments/assets/31280e2a-dae5-44f2-8e31-3b2e0195dccd" />
 <img width="982" height="508" alt="3" src="https://github.com/user-attachments/assets/7127319f-7a99-4699-9bd6-673c704ea7df" />
